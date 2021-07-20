@@ -1,4 +1,5 @@
-###Required Libraries:
+### Proximity search logic to find places of interest ( hospitals, hotels etc. ) nearby to a location. In addition return the place of interest with the shortest travel time from the reference locationequired Libraries:
+## Dependencies
 Mentioned in requirements.txt
 
 ### Running the script
