@@ -1,0 +1,8 @@
+{
+  "country_code": "CA",
+  "retry_count": 6,
+  "backoff": 2,
+  "delay": 1,
+  "proximity_radius": 4000,
+  "geohash_precision": 4
+}
