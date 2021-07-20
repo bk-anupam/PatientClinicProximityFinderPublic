@@ -21,7 +21,7 @@ The run logs are generated in logs/info.log
 
 ### Application configuration
 The dynamic parameters are maintained in config/app_config.json
-####This includes: 
+#### This includes: 
 1. The retry configuration parameters retry_count, backoff and delay.
 
 2. The country_code parameter is set to "CA" to ensure our Nominatim api searches return 
