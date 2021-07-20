@@ -37,7 +37,7 @@ a patient can broadly be broken down as below:
    We make use of the python geopy library and open source Nominatim api for geocoding patient and clinic addresses.
    There are other apis like google maps that could be used but they are paid and require the use of api keys. 
    
-   ####GeoCode search approach:
+   #### GeoCode search approach:
    
    a) Country code is set to "CA" in app_config.json to restrict our search results to Canada
    
